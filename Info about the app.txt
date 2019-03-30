@@ -1,0 +1,25 @@
+Please note that this app was created based on this tutorial https://www.js-tutorials.com/nodejs-tutorial/node-js-user-authentication-using-mysql-express-js/
+on how to create authentication system using nodejs.
+Even though my website is different in structure and code it was based on that tutorial.
+
+note that these are my sql connection properties used in the app:
+  host: 'localhost',
+  port: 3306,
+  user: 'root',
+  password: ''
+
+
+how to start the app.
+1.cd to register-unit and run:
+	npm install
+	node app.js
+2.cd to login-unit and run:
+	npm install
+	node app.js
+3.cd to home-unit and run:
+	npm install
+	npm start
+last command will run home-unit and open browser window on login.
+ 
+Sincerely,
+Mohamed Roza
